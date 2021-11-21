@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="uuv_gazebo" type="move.py" name="Pub"/>
+</launch>

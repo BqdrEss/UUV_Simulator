@@ -1,0 +1,8 @@
+uuv_simulator/uuv_teleop
+/home/badr/catkinws/devel/.private/uuv_teleop/cmake.lock /home/badr/catkinws/devel/./cmake.lock
+/home/badr/catkinws/devel/.private/uuv_teleop/lib/uuv_teleop/cmake.lock /home/badr/catkinws/devel/lib/uuv_teleop/cmake.lock
+/home/badr/catkinws/devel/.private/uuv_teleop/lib/uuv_teleop/finned_uuv_teleop.py /home/badr/catkinws/devel/lib/uuv_teleop/finned_uuv_teleop.py
+/home/badr/catkinws/devel/.private/uuv_teleop/lib/uuv_teleop/vehicle_teleop.py /home/badr/catkinws/devel/lib/uuv_teleop/vehicle_teleop.py
+/home/badr/catkinws/devel/.private/uuv_teleop/lib/pkgconfig/uuv_teleop.pc /home/badr/catkinws/devel/lib/pkgconfig/uuv_teleop.pc
+/home/badr/catkinws/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake /home/badr/catkinws/devel/share/uuv_teleop/cmake/uuv_teleopConfig-version.cmake
+/home/badr/catkinws/devel/.private/uuv_teleop/share/uuv_teleop/cmake/uuv_teleopConfig.cmake /home/badr/catkinws/devel/share/uuv_teleop/cmake/uuv_teleopConfig.cmake

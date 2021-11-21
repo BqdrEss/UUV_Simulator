@@ -1,0 +1,7 @@
+uuv_simulator/uuv_descriptions
+/home/badr/catkinws/devel/.private/uuv_descriptions/cmake.lock /home/badr/catkinws/devel/./cmake.lock
+/home/badr/catkinws/devel/.private/uuv_descriptions/lib/uuv_descriptions/cmake.lock /home/badr/catkinws/devel/lib/uuv_descriptions/cmake.lock
+/home/badr/catkinws/devel/.private/uuv_descriptions/lib/uuv_descriptions/spawn_model /home/badr/catkinws/devel/lib/uuv_descriptions/spawn_model
+/home/badr/catkinws/devel/.private/uuv_descriptions/lib/pkgconfig/uuv_descriptions.pc /home/badr/catkinws/devel/lib/pkgconfig/uuv_descriptions.pc
+/home/badr/catkinws/devel/.private/uuv_descriptions/share/uuv_descriptions/cmake/uuv_descriptionsConfig.cmake /home/badr/catkinws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig.cmake
+/home/badr/catkinws/devel/.private/uuv_descriptions/share/uuv_descriptions/cmake/uuv_descriptionsConfig-version.cmake /home/badr/catkinws/devel/share/uuv_descriptions/cmake/uuv_descriptionsConfig-version.cmake

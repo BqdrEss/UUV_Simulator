@@ -1,0 +1,7 @@
+uuv_simulator/uuv_world_plugins/uuv_world_ros_plugins
+/home/badr/catkinws/devel/.private/uuv_world_ros_plugins/cmake.lock /home/badr/catkinws/devel/./cmake.lock
+/home/badr/catkinws/devel/.private/uuv_world_ros_plugins/lib/libuuv_underwater_current_ros_plugin.so /home/badr/catkinws/devel/lib/libuuv_underwater_current_ros_plugin.so
+/home/badr/catkinws/devel/.private/uuv_world_ros_plugins/lib/libuuv_sc_ros_interface_plugin.so /home/badr/catkinws/devel/lib/libuuv_sc_ros_interface_plugin.so
+/home/badr/catkinws/devel/.private/uuv_world_ros_plugins/lib/pkgconfig/uuv_world_ros_plugins.pc /home/badr/catkinws/devel/lib/pkgconfig/uuv_world_ros_plugins.pc
+/home/badr/catkinws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake /home/badr/catkinws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig.cmake
+/home/badr/catkinws/devel/.private/uuv_world_ros_plugins/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake /home/badr/catkinws/devel/share/uuv_world_ros_plugins/cmake/uuv_world_ros_pluginsConfig-version.cmake

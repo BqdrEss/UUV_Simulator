@@ -1,0 +1,7 @@
+uuv_simulator/uuv_tutorials/uuv_tutorial_dp_controller
+/home/badr/catkinws/devel/.private/uuv_tutorial_dp_controller/cmake.lock /home/badr/catkinws/devel/./cmake.lock
+/home/badr/catkinws/devel/.private/uuv_tutorial_dp_controller/lib/pkgconfig/uuv_tutorial_dp_controller.pc /home/badr/catkinws/devel/lib/pkgconfig/uuv_tutorial_dp_controller.pc
+/home/badr/catkinws/devel/.private/uuv_tutorial_dp_controller/lib/uuv_tutorial_dp_controller/cmake.lock /home/badr/catkinws/devel/lib/uuv_tutorial_dp_controller/cmake.lock
+/home/badr/catkinws/devel/.private/uuv_tutorial_dp_controller/lib/uuv_tutorial_dp_controller/tutorial_dp_controller.py /home/badr/catkinws/devel/lib/uuv_tutorial_dp_controller/tutorial_dp_controller.py
+/home/badr/catkinws/devel/.private/uuv_tutorial_dp_controller/share/uuv_tutorial_dp_controller/cmake/uuv_tutorial_dp_controllerConfig-version.cmake /home/badr/catkinws/devel/share/uuv_tutorial_dp_controller/cmake/uuv_tutorial_dp_controllerConfig-version.cmake
+/home/badr/catkinws/devel/.private/uuv_tutorial_dp_controller/share/uuv_tutorial_dp_controller/cmake/uuv_tutorial_dp_controllerConfig.cmake /home/badr/catkinws/devel/share/uuv_tutorial_dp_controller/cmake/uuv_tutorial_dp_controllerConfig.cmake

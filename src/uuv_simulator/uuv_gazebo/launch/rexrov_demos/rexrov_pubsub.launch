@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="uuv_gazebo" type="move.py" name="Pub" output="screen"/>
+	<include file="$(find uuv_gazebo)/launch/rexrov_demos/rexrov_wrench_control.launch"/>
+	<include file="$(find uuv_gazebo_worlds)/launch/empty_underwater_world.launch"/>
+</launch>

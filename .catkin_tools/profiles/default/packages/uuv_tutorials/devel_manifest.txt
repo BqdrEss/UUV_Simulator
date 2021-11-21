@@ -1,0 +1,2 @@
+uuv_simulator/uuv_tutorials/uuv_tutorials
+/home/badr/catkinws/devel/.private/uuv_tutorials/cmake.lock /home/badr/catkinws/devel/./cmake.lock

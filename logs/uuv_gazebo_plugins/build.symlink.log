@@ -1,0 +1,9 @@
+Symlinking /home/badr/catkinws/devel/lib/libuuv_fin_plugin.so
+Symlinking /home/badr/catkinws/devel/lib/libumbilical_plugin.so
+Symlinking /home/badr/catkinws/devel/lib/libuuv_dynamics.so
+Symlinking /home/badr/catkinws/devel/lib/libuuv_underwater_object_plugin.so
+Symlinking /home/badr/catkinws/devel/lib/libuuv_gazebo_plugins_msgs.so
+Symlinking /home/badr/catkinws/devel/lib/libuuv_thruster_plugin.so
+Symlinking /home/badr/catkinws/devel/lib/pkgconfig/uuv_gazebo_plugins.pc
+Symlinking /home/badr/catkinws/devel/share/uuv_gazebo_plugins/cmake/uuv_gazebo_pluginsConfig-version.cmake
+Symlinking /home/badr/catkinws/devel/share/uuv_gazebo_plugins/cmake/uuv_gazebo_pluginsConfig.cmake
