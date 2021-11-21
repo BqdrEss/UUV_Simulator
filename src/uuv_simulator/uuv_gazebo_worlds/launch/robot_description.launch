@@ -1,0 +1,3 @@
+<launch>
+    <param name="robot_description" command="$(find xacro)/xacro --inorder '$(find uuv_gazebo_worlds)/urdf/model.urdf'"/>
+</launch>
